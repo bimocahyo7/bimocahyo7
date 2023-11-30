@@ -1,5 +1,7 @@
 ### Hi there, I'm Bimo Cahyo Kusumo 👋
 
+🌱 I’m currently learning Fullstack with ReactJS and ExpressJS
+
 <!--
 **bimocahyo7/bimocahyo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
