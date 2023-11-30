@@ -1,6 +1,6 @@
 ### Hi there, I'm Bimo Cahyo Kusumo 👋
 
-🔭 I’m a student majoring in Information Technology at Politeknik Negeri Malang.
+🔭 I’m a student majoring in Information Technology at Politeknik Negeri Malang. <br>
 🌱 I’m currently learning Fullstack Web Developer with ReactJS and ExpressJS.
 
 <!--
