@@ -1,4 +1,4 @@
-### Hi there, I'm Bimo Cahyo Kusumo 👋
+## Hi there, I'm Bimo Cahyo Kusumo 👋
 
 🔭 I’m a student majoring in Information Technology at Politeknik Negeri Malang. <br>
 🌱 I’m currently learning Fullstack Web Developer with ReactJS and ExpressJS.
