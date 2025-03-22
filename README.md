@@ -3,7 +3,9 @@
 🔭 I’m a student majoring in Information Technology at Politeknik Negeri Malang. <br>
 🌱 I’m currently learning Fullstack Web Developer with ReactJS and ExpressJS.
 
-### Languages and Tools :
+---
+
+### Tech Stack and Tools :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -50,6 +52,8 @@
 </div>
 
 ###
+
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bimocahyo7.bimocahyo7&left_text=View%20Profile"  />
